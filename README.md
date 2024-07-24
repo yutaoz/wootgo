@@ -7,7 +7,7 @@ A wrapper for the Wooting RGB SDK in Go
 Make sure you have `wooting-rgb-sdk64.dll` in your project root
 
 ## Examples
-```
+```go
 package main
 
 import (
